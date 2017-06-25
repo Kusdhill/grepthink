@@ -1,7 +1,7 @@
 # teamwork-project .gitignore
 
-# Ignoring migrations during development
-**/migrations/*
+# Not ignoring migrations on production branch
+#**/migrations/*
 
 # Ignore media folder
 teamwork/media/**
