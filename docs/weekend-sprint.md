@@ -12,7 +12,7 @@ As a user I want
 
 1. A functioning website that loads quickily. **Switching to Heroku, better flat rate and AWS charged me $8 within 10hrs**
 
-2. The ability to change project images (or not have project images at all).
+2. **The ability to change project images (or not have project images at all).**
 
 3. A landing page that quickly shows me what the site is about.
 
